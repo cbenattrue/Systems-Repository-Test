@@ -1,0 +1,1 @@
+﻿(A+B+C+D'+E) . (A+B+C'+D+E) . (A+A+B'+C'+D'+E') . (A'+B+C+D'+E) . (A'+B+C+D'+E') . (A'+B+C'+D+E) . (A'+B+C'+D+E') . (A'+B+C'+D'+E) . (A'+B+C'+D'+E') . (A'+B'+C+D+E') . (A'+B'+C'+D+E) . (A'+B'+C'+D+E')
